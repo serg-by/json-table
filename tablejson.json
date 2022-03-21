@@ -1,58 +1,82 @@
- [
-    {
-        name:'John Doe',
-        age: '25',
-        occupation:'Doctor',
-        city:'LIC',
-        state:'NY'
-    }, 
-    {
-        name: "Susan Jons",
-        age: '36',
-        occupation: "Engineer",
-        city: "Main city",
-        state: "FL",
-      },
-      {
-        name: "Mike Smith",
-        age: '48',
-        occupation: "Contractor",
-        city: "Los Anglous",
-        state: "CA",
-      },
-      {
-        name: "Adam Jim",
-        age: '62',
-        occupation: "Surgent",
-        city: "Flanders",
-        state: "NJ",
-      },
-      {
-        name: "Mike Doe",
-        age: '26',
-        occupation: "plummer",
-        city: "LIC",
-        state: "NY",
-      },
-      {
-        name: "Sally Jons",
-        age: '37',
-        occupation: "blacksmith",
-        city: "Main city",
-        state: "FL",
-      },
-      {
-        name: "Arnold Smith",
-        age: '49',
-        occupation: "unemployed",
-        city: "Los Anglous",
-        state: "CA",
-      },
-      {
-        name: "Adel Jim",
-        age: '61',
-        occupation: "nurse",
-        city: "Flanders",
-        state: "NJ",
-      }
+[
+  {
+    "id": 1,
+    "name": "Black and grey headphones",
+    "category": "United Kingdom",
+    "price": "male",
+    "stock": 1,
+    "hreshold": "10%"
+  },
+  {
+    "id": 2,
+    "name": "Black and grey headphones",
+    "category": "Germany",
+    "price": "female",
+    "stock": 2,
+    "hreshold": "5%"
+  },
+  {
+    "id": 3,
+    "name": "Black and grey laptop",
+    "category": "France",
+    "price": "female",
+    "stock": 0,
+    "hreshold": "5%"
+  },
+  {
+    "id": 4,
+    "name": "Black and grey headphones",
+    "category": "USA",
+    "price": "male",
+    "stock": 1,
+    "hreshold": "40%"
+  },
+  {
+    "id": 5,
+    "name": "Black and grey laptop",
+    "category": "Canada",
+    "price": "female",
+    "stock": 5,
+    "hreshold": "5%"
+  },
+  {
+    "id": 6,
+    "name": "Black and grey headphones",
+    "category": "Russia",
+    "price": "male",
+    "stock": 4,
+    "hreshold": "40%"
+  },
+  {
+    "id": 7,
+    "name": "Black smartphonet",
+    "category": "India",
+    "price": "male",
+    "stock": 3,
+    "hreshold": "25%"
+  },
+  {
+    "id": 8,
+    "name": "Printer coloris express series",
+    "category": "China",
+    "price": "female",
+    "stock": 0,
+    "hreshold": "11%"
+  },
+  {
+    "id": 9,
+    "name": "Black smartphone",
+    "category": "South Korea",
+    "price": "female",
+    "stock": 1,
+    "hreshold": "11%"
+  },
+  {
+    "id": 10,
+    "name": "Printer coloris series",
+    "category": "Japan",
+    "price": "male",
+    "stock": 5,
+    "hreshold": "25%"
+  }
 ]
